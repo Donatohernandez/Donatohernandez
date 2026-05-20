@@ -28,9 +28,7 @@ Currently co-founding Zaaby and PitchPilot AI.
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)
-## Github stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Donatohernandez&theme=dracula)](https://git.io/streak-stats)
 
 ## Connect
 
