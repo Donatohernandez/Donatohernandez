@@ -1,91 +1,34 @@
-# Hey, I'm Donato 👨‍💻
+# Donato Hernández
 
-**Full-stack Developer** | React Native • Node.js • TypeScript • AI
+Full-stack developer building AI-integrated products.
 
-I build. I ship. I iterate.
-
----
-
-## 🚀 Featured Projects
-
-### **Zaaby** – AI-Powered iOS Productivity App
-- **Role:** Co-Founder & Lead Full-Stack Developer
-- **What it does:** Transforms saved content into actionable insights using AI
-- **Tech Stack:** React Native, Expo SDK 54, TypeScript, Supabase (Postgres + RLS), OpenAI, RevenueCat
-- **Key Features:** AI link processing, automatic task flows, smart tagging, subscription management
-- **Status:** Live on TestFlight, heading to App Store
-- **Website:** [zaaby.app](https://zaaby.app/)
-- **Repository:** Private (reach out to discuss architecture & decisions)
-
-### **PitchPilot AI** – Real-Time Voice Pitch Practice Platform
-- **Role:** Co-Founder & Lead Full-Stack Developer
-- **What it does:** Interactive AI coaching for public speaking and pitch practice
-- **Tech Stack:** React, Node.js/Express, TypeScript, Gemini Live API, WebSockets, Google Cloud Run
-- **Key Features:** Real-time voice interaction, VAD (Voice Activity Detection), phase management, audio streaming
-- **Challenges Solved:** GoAway reconnection handling, VAD optimization, Docker cross-compilation for Apple Silicon
-- **Repository:** Private (happy to walk through the architecture)
-
-### **Portfolio Website** *(Coming Soon)*
-- Next.js 14, TypeScript, Tailwind CSS, Framer Motion
-- Showcasing my work and technical decisions
-- *URL coming soon*
+**React Native** • **Node.js** • **TypeScript** • **AI Integration**
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:**
-- React, React Native, TypeScript, Next.js, Tailwind CSS, Framer Motion
-
-**Backend:**
-- Node.js, Express, TypeScript, Python
-
-**Databases & Infrastructure:**
-- Supabase (PostgreSQL + RLS), Google Cloud, Vercel, EAS Build
-
-**AI & APIs:**
-- OpenAI, Google Gemini, RevenueCat
-
-**Tools & Practices:**
-- Git, GitHub, TypeScript, REST APIs, WebSockets, CI/CD
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🎯 What I Focus On
+## 📊 GitHub Stats
 
-✅ **Building products that ship** – Not just ideas, but real, deployed applications
-✅ **Full-stack development** – From UI to databases to cloud infrastructure
-✅ **AI integration** – Practical use of LLMs and modern AI APIs
-✅ **Production-ready code** – Security, performance, scalability
-✅ **Real problem-solving** – Understanding user needs and delivering solutions
+![Donato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donato&theme=dark&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donato&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-## 📊 Current Learning & Growth
+## 🔗 Connect
 
-- Deepening expertise in voice AI and real-time applications
-- Scaling full-stack systems from MVP to production
-- Improving English for professional communication (currently B1 → B2)
-- Exploring more advanced backend patterns and system design
-
----
-
-## 🔗 Let's Connect
-
-- **Email:** manueldonato9921@gmail.com
-- **LinkedIn:** [manuel-donato-hernandez](https://www.linkedin.com/in/manuel-donato-hernandez/)
-- **GitHub:** You're here! 👈
-
----
-
-## 💡 Open To
-
-- **Remote full-stack developer roles** (React Native, Node.js, AI integration)
-- **Technical discussions** about architecture, AI, and product development
-- **Collaborations** on interesting problems
-
-Feel free to reach out. Let's build something great.
-
----
-
-*Last updated: May 2026*
+📧 **Email:** manueldonato9921@gmail.com  
+💼 **LinkedIn:** [manuel-donato-hernandez](https://www.linkedin.com/in/manuel-donato-hernandez/)
