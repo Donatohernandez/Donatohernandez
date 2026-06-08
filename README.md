@@ -33,6 +33,6 @@ Currently co-founding Zaaby and PitchPilot AI.
 ## Connect
 
 **Email:** manueldonato9921@gmail.com  
-**LinkedIn:** [manuel-donato-hernandez](https://www.linkedin.com/in/manuel-donato-hernandez/)
+**LinkedIn:** [manuel-donato-hernandez](https://www.linkedin.com/in/manuel-donato-hernandez/)  
 **Portfolio:** [donatohernandez.dev](https://donatohernandez.dev)
 
