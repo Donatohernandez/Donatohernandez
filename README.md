@@ -37,6 +37,6 @@ Developer behind **Zaaby App**, **PitchPilot AI**, and **Linaria**.
 
 ### Connect
 
-**Email:** manueldonato9921@gmail.com
-**LinkedIn:** [manuel-donato-hernandez](https://www.linkedin.com/in/manuel-donato-hernandez/)
+**Email:** manueldonato9921@gmail.com  
+**LinkedIn:** [manuel-donato-hernandez](https://www.linkedin.com/in/manuel-donato-hernandez/)  
 **Portfolio:** [donatohernandez.dev](https://donatohernandez.dev)
