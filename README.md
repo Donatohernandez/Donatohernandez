@@ -21,9 +21,9 @@ Desarrollador detrás de **Materiales San Rafael**, **Zaaby App** y **PitchPilot
 ### Tecnologías
 
 ![n8n](https://img.shields.io/badge/n8n-333333?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-333333?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](./assets/openai-badge.svg)
 ![Gemini](https://img.shields.io/badge/Gemini-333333?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
