@@ -10,7 +10,7 @@ Desarrollador detrás de **Materiales San Rafael**, **Zaaby App** y **PitchPilot
 
 ### Proyectos destacados
 
-**[Materiales San Rafael](https://mx.donatohernandez.dev/#materiales-san-rafael)** — Digitalización del crédito y la cobranza mediante n8n, Supabase, PostgreSQL y Telegram.
+**[Materiales San Rafael](https://github.com/Donatohernandez/materiales-san-rafael)** — Digitalización del crédito y la cobranza mediante n8n, Supabase, PostgreSQL y Telegram.
 
 **[Zaaby App](https://github.com/Donatohernandez/Zaaby-app)** — Aplicación para iOS que transforma contenido guardado en conocimiento y acciones mediante IA.
 
